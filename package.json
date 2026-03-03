@@ -1,6 +1,7 @@
 {
   "name": "applied-statistics",
   "version": "0.0.0",
+  "homepage": "https://www.appliedstatistics.ch",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
